@@ -1,14 +1,13 @@
 * 머신러닝 및 딥러닝 관련 유용한 사이트 모음 
 
-<머신러닝> \n
-
+<머신러닝>
 엔드류응의 머신러닝 클래스 
 https://www.coursera.org/learn/machine-learning
 
 Google 머신러닝 단기 집중 과정 
 https://developers.google.com/machine-learning/crash-course/ml-intro
 
-<딥러닝> 
+<딥러닝>
 모두를 위한 머신러닝/딥러닝 강의
 https://hunkim.github.io/ml/
 
@@ -27,7 +26,7 @@ https://www.tensorflow.org/overview/?hl=ko
 파이토치 공식사이트 
 https://pytorch.org/
 
-< 수학 > 
+< 수학 >
 선형대수학 강의(한양대 이상화 교수님)  
 http://www.kocw.net/home/search/kemView.do?kemId=977757
 
@@ -41,7 +40,7 @@ https://www.coursera.org/specializations/probabilistic-graphical-models
 https://ko.khanacademy.org/math/linear-algebra
 
 
-<MOOC> 
+<MOOC>
 다양한 MOOC 강좌 
 https://www.edwith.org/
 
@@ -53,11 +52,11 @@ http://www.kocw.net/
 Machine Learning, Data Science and Deep Learning with Python(유데미) 
 https://www.udemy.com/course/data-science-and-machine-learning-with-python-hands-on/?LSNPUBID=nbJH6*TrzAA&ranEAID=nbJH6*TrzAA&ranMID=39197&ranSiteID=nbJH6.TrzAA-tdBLRXy8zGVyNTPlmhRr9A&utm_medium=udemyads&utm_source=aff-campaign
  
-T아카데미 
+T아카데미
 https://tacademy.skplanet.com/frontMain.action
 
 
-<커뮤니티> 
+<커뮤니티>
 모두의연구소 커뮤니티  #모두연 
 https://www.facebook.com/groups/modulabs/
 
@@ -68,13 +67,13 @@ PyTorch 한국 사용자 그룹
 https://www.facebook.com/groups/PyTorchKR/
 
 
-<프로그래밍언어> 
+<프로그래밍언어>
 최성철 교수님의 Python 
 https://www.edwith.org/aipython
 
 데이터사이언스스쿨 
 https://datascienceschool.net/
 
-<유용한사이트> 
+<유용한사이트>
 데이터분석 대회
 https://www.kaggle.com/ 
