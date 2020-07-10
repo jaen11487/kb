@@ -1,6 +1,7 @@
 * 머신러닝 및 딥러닝 관련 유용한 사이트 모음 
 
-< 머신러닝> 
+<머신러닝> \n
+
 엔드류응의 머신러닝 클래스 
 https://www.coursera.org/learn/machine-learning
 
